@@ -1,0 +1,16 @@
+Code snippet
+# Python virtual environments & bytecode
+.venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Data files (keep raw & processed data off GitHub)
+data/raw/
+data/processed/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system artifacts
+.DS_Store
