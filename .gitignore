@@ -14,3 +14,5 @@ data/processed/
 
 # macOS system artifacts
 .DS_Store
+# Notebooks are for experimenting locally; finished code goes in Src/
+*.ipynb
